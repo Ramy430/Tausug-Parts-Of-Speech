@@ -1,0 +1,235 @@
+/* styles.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #1a2980, #26d0ce);
+    color: #333;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    color: white;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-size: 3.2rem;
+    margin-bottom: 10px;
+    color: #FFD700;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+.buttons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 18px;
+    margin-bottom: 40px;
+}
+
+.speech-btn {
+    background: white;
+    border: none;
+    border-radius: 12px;
+    padding: 18px 25px;
+    font-size: 1.3rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #1a2980;
+}
+
+.speech-btn:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+}
+
+.speech-btn.active {
+    background: #FFD700;
+    color: #1a2980;
+    transform: translateY(-5px);
+}
+
+.btn-icon {
+    font-size: 2.2rem;
+    margin-bottom: 10px;
+    color: #1a2980;
+}
+
+.content-area {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 20px;
+    padding: 35px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    min-height: 400px;
+    transition: all 0.3s ease;
+}
+
+.part-title {
+    color: #1a2980;
+    font-size: 2.8rem;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #FFD700;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.part-title i {
+    color: #26d0ce;
+}
+
+.definition {
+    font-size: 1.4rem;
+    line-height: 1.7;
+    margin-bottom: 25px;
+    color: #444;
+}
+
+.example {
+    background: #f0f8ff;
+    border-left: 5px solid #1a2980;
+    padding: 20px;
+    border-radius: 0 10px 10px 0;
+    margin-bottom: 25px;
+}
+
+.example-title {
+    font-weight: 700;
+    color: #1a2980;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.example-text {
+    font-style: italic;
+    font-size: 1.3rem;
+    line-height: 1.6;
+}
+
+.tausug-word {
+    color: #d32f2f;
+    font-weight: 700;
+}
+
+.english-word {
+    color: #1a2980;
+    font-weight: 700;
+}
+
+.usage {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.usage-item {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+}
+
+.usage-item h4 {
+    color: #1a2980;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.initial-content {
+    text-align: center;
+    padding: 60px 20px;
+    color: #555;
+}
+
+.initial-content i {
+    font-size: 4rem;
+    color: #1a2980;
+    margin-bottom: 25px;
+    opacity: 0.7;
+}
+
+.initial-content h2 {
+    color: #1a2980;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.initial-content p {
+    font-size: 1.3rem;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.7;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+    .buttons-container {
+        gap: 15px;
+    }
+    
+    .speech-btn {
+        width: 160px;
+        padding: 15px 15px;
+        font-size: 1.1rem;
+    }
+    
+    h1 {
+        font-size: 2.5rem;
+    }
+    
+    .part-title {
+        font-size: 2.2rem;
+    }
+    
+    .content-area {
+        padding: 25px 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .speech-btn {
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+}
