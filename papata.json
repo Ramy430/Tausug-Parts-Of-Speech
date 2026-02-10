@@ -1,1 +1,8 @@
 
+{
+  "title": "Papata (Adjective)", 
+  "icon": "fa-pen-alt",
+  "definition": "An adjective (papata)...",
+  "filterCategory": "adjective",
+  "loadFrom": "vocabulary.json"
+}
