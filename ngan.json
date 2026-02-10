@@ -1,1 +1,8 @@
 
+{
+  "title": "Ngan (Noun)",
+  "icon": "fa-file-signature",
+  "definition": "A noun (ngan) in Tausug...",
+  "filterCategory": "noun",
+  "loadFrom": "vocabulary.json"
+}
