@@ -32,11 +32,11 @@ const partsData = {
         definition: "A pronoun (ganti'ngan) is a word that takes the place of a noun. Tausug pronouns indicate person (first, second, third), number (singular, plural), and sometimes inclusivity.",
         examples: [
             {
-                tausug: "<span class='tausug-word'>Aku</span> magadtu ha iskul.",
+                tausug: "<span class='tausug-word'>Aku</span> magkadtu pa iskul.",
                 english: "<span class='english-word'>I</span> am going to school."
             },
             {
-                tausug: "Hinangun sin <span class='tausug-word'>kita</span> in pagkaun.",
+                tausug: "Hiddaiya sin <span class='tausug-word'>kitaniyo</span> in pagkaun.",
                 english: "<span class='english-word'>We</span> (inclusive) prepared the food."
             },
             {
