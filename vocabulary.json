@@ -1,1 +1,1294 @@
+{
+  "vocabulary": [
+    /* ========== COLORS (Adjectives & Nouns) ========== */
+    {
+      "id": "itum_1",
+      "tausug": "Itum",
+      "english": "black",
+      "categories": ["adjective", "noun"],
+      "definition": "The darkest color, like coal or the night sky. Can describe objects or refer to the color itself.",
+      "examples": [
+        {
+          "tausug": "Itum in buhuk sin babai.",
+          "english": "The woman's hair is black."
+        },
+        {
+          "tausug": "Gustuh ku in itum.",
+          "english": "I like black (the color).",
+          "context": "As noun"
+        }
+      ],
+      "pronunciation": "ee-TOOM",
+      "notes": "Common adjective that can also function as a noun when referring to the color concept."
+    },
+    {
+      "id": "puti_1",
+      "tausug": "Puti'",
+      "english": "white",
+      "categories": ["adjective", "noun"],
+      "definition": "The color of milk or fresh snow; reflecting all visible wavelengths of light.",
+      "examples": [
+        {
+          "tausug": "Puti' in bāy nila.",
+          "english": "Their house is white."
+        }
+      ],
+      "pronunciation": "poo-TEE",
+      "synonyms": ["Maputi"]
+    },
+    {
+      "id": "pula_1",
+      "tausug": "Pula",
+      "english": "red",
+      "categories": ["adjective", "noun"],
+      "definition": "The color of blood, fire, or rubies.",
+      "examples": [
+        {
+          "tausug": "Pula in dugù sin tau.",
+          "english": "A person's blood is red."
+        }
+      ],
+      "pronunciation": "poo-LA"
+    },
+    {
+      "id": "biyaning_1",
+      "tausug": "Biyaning",
+      "english": "yellow",
+      "categories": ["adjective", "noun"],
+      "definition": "The color of lemons, sunflowers, or egg yolks.",
+      "examples": [
+        {
+          "tausug": "Biyaning in bunga sin mangga.",
+          "english": "The mango fruit is yellow."
+        }
+      ],
+      "pronunciation": "bee-YAH-ning"
+    },
+    {
+      "id": "gaddung_1",
+      "tausug": "Gaddung",
+      "english": "green",
+      "categories": ["adjective", "noun"],
+      "definition": "The color of grass, leaves, or emeralds.",
+      "examples": [
+        {
+          "tausug": "Gaddung in dahun sin kahuy.",
+          "english": "The tree leaves are green."
+        }
+      ],
+      "pronunciation": "gad-DOONG"
+    },
+    {
+      "id": "bilo_1",
+      "tausug": "Bilo",
+      "english": "blue",
+      "categories": ["adjective", "noun"],
+      "definition": "The color of the clear sky or deep sea.",
+      "examples": [
+        {
+          "tausug": "Bilo in dagat ha Sulu.",
+          "english": "The sea in Sulu is blue."
+        }
+      ],
+      "pronunciation": "BEE-lo"
+    },
+    {
+      "id": "abuhun_1",
+      "tausug": "Abuhun",
+      "english": "brown",
+      "categories": ["adjective", "noun"],
+      "definition": "The color of wood, soil, or chocolate.",
+      "examples": [
+        {
+          "tausug": "Abuhun in yuta' ha bukid.",
+          "english": "The soil in the mountain is brown."
+        }
+      ],
+      "pronunciation": "a-boo-HOON"
+    },
 
+    /* ========== BODY PARTS (Nouns) ========== */
+    {
+      "id": "lima_1",
+      "tausug": "Lima",
+      "english": "hand, five",
+      "categories": ["noun", "number"],
+      "definition": "The end part of a person's arm beyond the wrist; the number after four.",
+      "examples": [
+        {
+          "tausug": "Masakit in lima ku sabab nagdala aku sin mabugat.",
+          "english": "My hand hurts because I carried something heavy.",
+          "context": "As body part"
+        },
+        {
+          "tausug": "Lima in manga bata' ha sulod sin bāy.",
+          "english": "There are five children inside the house.",
+          "context": "As number"
+        }
+      ],
+      "pronunciation": "LEE-ma",
+      "notes": "Important example of a word with two distinct meanings (body part and number)."
+    },
+    {
+      "id": "buhok_1",
+      "tausug": "Buhok",
+      "english": "hair",
+      "categories": ["noun"],
+      "definition": "Any of the fine threadlike strands growing from the skin of mammals.",
+      "examples": [
+        {
+          "tausug": "Haba' in buhuk sin anak ku babai.",
+          "english": "My daughter's hair is long."
+        }
+      ],
+      "pronunciation": "boo-HOK"
+    },
+    {
+      "id": "pais_1",
+      "tausug": "Pais",
+      "english": "skin",
+      "categories": ["noun"],
+      "definition": "The thin layer of tissue forming the natural outer covering of the body.",
+      "examples": [
+        {
+          "tausug": "Maputi in pais sin bata'.",
+          "english": "The child's skin is fair."
+        }
+      ],
+      "pronunciation": "pa-EES"
+    },
+    {
+      "id": "alum_1",
+      "tausug": "Alum",
+      "english": "hematoma, bruise",
+      "categories": ["noun"],
+      "definition": "A discoloration of the skin resulting from bleeding underneath, typically caused by injury.",
+      "examples": [
+        {
+          "tausug": "May alum in bukun ku sabab nahulug aku.",
+          "english": "I have a bruise on my leg because I fell."
+        }
+      ],
+      "pronunciation": "A-loom",
+      "notes": "Medical term for bruise or contusion."
+    },
+
+    /* ========== COMMON NOUNS ========== */
+    {
+      "id": "bay_1",
+      "tausug": "Bay",
+      "english": "house, home",
+      "categories": ["noun"],
+      "definition": "A building for human habitation; a place where one lives permanently.",
+      "examples": [
+        {
+          "tausug": "Malingkat in bay nila ha dagat.",
+          "english": "Their house by the sea is beautiful."
+        },
+        {
+          "tausug": "Miss ko na in bay ku ha Jolo.",
+          "english": "I miss my home in Jolo already."
+        }
+      ],
+      "pronunciation": "ba-EE",
+      "synonyms": ["Balay"],
+      "notes": "Can refer to both the physical structure and the emotional concept of home."
+    },
+    {
+      "id": "tau_1",
+      "tausug": "Tau",
+      "english": "person, human being",
+      "categories": ["noun"],
+      "definition": "A human being regarded as an individual.",
+      "examples": [
+        {
+          "tausug": "Mabayat in tau ha lalawigan sin Sulu.",
+          "english": "The people in the province of Sulu are kind."
+        }
+      ],
+      "pronunciation": "TA-oo",
+      "variants": ["Tao", "Two"]
+    },
+    {
+      "id": "manusiya_1",
+      "tausug": "Manusiya'",
+      "english": "people, mankind, humanity",
+      "categories": ["noun"],
+      "definition": "Human beings collectively; the human race.",
+      "examples": [
+        {
+          "tausug": "In manga manusiya' subay magdaru'ungan.",
+          "english": "People should help each other."
+        }
+      ],
+      "pronunciation": "ma-noo-SEE-ya",
+      "notes": "Broader term than 'tau'; refers to humanity as a whole."
+    },
+    {
+      "id": "kakaun_1",
+      "tausug": "Kakaun",
+      "english": "food",
+      "categories": ["noun"],
+      "definition": "Any nutritious substance that people or animals eat or drink.",
+      "examples": [
+        {
+          "tausug": "Masarap in kakaun ha handaan.",
+          "english": "The food at the feast is delicious."
+        }
+      ],
+      "pronunciation": "ka-KA-oon"
+    },
+    {
+      "id": "kaun_1",
+      "tausug": "Kaun",
+      "english": "food, meal",
+      "categories": ["noun"],
+      "definition": "An instance of eating; the food consumed during a meal.",
+      "examples": [
+        {
+          "tausug": "Kaun na kita!",
+          "english": "Let's eat now!"
+        }
+      ],
+      "pronunciation": "KA-oon",
+      "notes": "Can also function as a verb meaning 'to eat'."
+    },
+    {
+      "id": "tagainup_1",
+      "tausug": "Tagainup",
+      "english": "dream",
+      "categories": ["noun"],
+      "definition": "A series of thoughts, images, and sensations occurring in a person's mind during sleep.",
+      "examples": [
+        {
+          "tausug": "May aku tagainup kagabi' bang siya magbalik.",
+          "english": "I had a dream last night that he would return."
+        }
+      ],
+      "pronunciation": "ta-ga-EE-noop"
+    },
+    {
+      "id": "pali_1",
+      "tausug": "Pali'",
+      "english": "wound, injury, trauma",
+      "categories": ["noun"],
+      "definition": "An injury to living tissue caused by a cut, blow, or other impact.",
+      "examples": [
+        {
+          "tausug": "Maluma' na in pali' ha bukun ku.",
+          "english": "The wound on my leg is healing now."
+        }
+      ],
+      "pronunciation": "pa-LEE"
+    },
+    {
+      "id": "katas_1",
+      "tausug": "Katas",
+      "english": "paper",
+      "categories": ["noun"],
+      "definition": "Material manufactured in thin sheets from the pulp of wood.",
+      "examples": [
+        {
+          "tausug": "Katas ini para ha surat.",
+          "english": "This paper is for the letter."
+        }
+      ],
+      "pronunciation": "KA-tas"
+    },
+    {
+      "id": "kakana_1",
+      "tausug": "Kakana'",
+      "english": "cloth, fabric",
+      "categories": ["noun"],
+      "definition": "Material produced by weaving or knitting textile fibers.",
+      "examples": [
+        {
+          "tausug": "Malingkat in kakana' sin badju' ku.",
+          "english": "The fabric of my dress is beautiful."
+        }
+      ],
+      "pronunciation": "ka-KA-na",
+      "synonyms": ["Tela"]
+    },
+    {
+      "id": "kapatus_1",
+      "tausug": "Kapatus",
+      "english": "shoes",
+      "categories": ["noun"],
+      "definition": "A covering for the foot, typically made of leather.",
+      "examples": [
+        {
+          "tausug": "Bago in kapatus sin anak ku lalaki.",
+          "english": "My son's shoes are new."
+        }
+      ],
+      "pronunciation": "ka-PA-toos"
+    },
+    {
+      "id": "tawumpa_1",
+      "tausug": "Tawumpa'",
+      "english": "footwear, sandals",
+      "categories": ["noun"],
+      "definition": "Garment worn on the feet, especially lightweight open shoes.",
+      "examples": [
+        {
+          "tausug": "Marayaw in tawumpa' ha init.",
+          "english": "Sandals are good for hot weather."
+        }
+      ],
+      "pronunciation": "ta-woom-PA",
+      "synonyms": ["Sandalyas"]
+    },
+    {
+      "id": "kappal_1",
+      "tausug": "Kappal",
+      "english": "ship, boat, vessel",
+      "categories": ["noun"],
+      "definition": "A large watercraft that travels the world's oceans and seas.",
+      "examples": [
+        {
+          "tausug": "Dakula in kappal pa Zamboanga.",
+          "english": "The ship to Zamboanga is big."
+        }
+      ],
+      "pronunciation": "kap-PAL"
+    },
+    {
+      "id": "karita_1",
+      "tausug": "Karita",
+      "english": "car, vehicle",
+      "categories": ["noun"],
+      "definition": "A road vehicle, typically with four wheels, powered by an engine.",
+      "examples": [
+        {
+          "tausug": "Bago in karita sin tuan.",
+          "english": "The man's car is new."
+        }
+      ],
+      "pronunciation": "ka-REE-ta",
+      "synonyms": ["Awto", "Sakayan"]
+    },
+    {
+      "id": "jali_1",
+      "tausug": "Jali'",
+      "english": "camouflage",
+      "categories": ["noun"],
+      "definition": "The disguising of military personnel or equipment.",
+      "examples": [
+        {
+          "tausug": "Jali' in badju' sin sundalu.",
+          "english": "The soldier's uniform is camouflage."
+        }
+      ],
+      "pronunciation": "ja-LEE",
+      "notes": "Military term; can also mean patterned clothing."
+    },
+
+    /* ========== VERBS ========== */
+    {
+      "id": "kita_1",
+      "tausug": "Kita",
+      "english": "see, look",
+      "categories": ["verb"],
+      "definition": "To perceive with the eyes; to observe.",
+      "examples": [
+        {
+          "tausug": "Kita ku kaw ha iskul kagabii.",
+          "english": "I saw you at school yesterday."
+        },
+        {
+          "tausug": "Kita kaw sin dagat!",
+          "english": "Look at the sea!"
+        }
+      ],
+      "pronunciation": "KEE-ta",
+      "notes": "Different meaning from the pronoun 'kita' (we inclusive)."
+    },
+    {
+      "id": "dagan_1",
+      "tausug": "Dagan",
+      "english": "run",
+      "categories": ["verb"],
+      "definition": "To move at a speed faster than a walk.",
+      "examples": [
+        {
+          "tausug": "Dagan siya bang mangadjat in ulan.",
+          "english": "He runs when the rain starts."
+        }
+      ],
+      "pronunciation": "DA-gan"
+    },
+    {
+      "id": "hulag_1",
+      "tausug": "Hulag",
+      "english": "move",
+      "categories": ["verb"],
+      "definition": "To change position or go from one place to another.",
+      "examples": [
+        {
+          "tausug": "Ayaw hulag!",
+          "english": "Don't move!"
+        }
+      ],
+      "pronunciation": "hoo-LAG"
+    },
+    {
+      "id": "tulug_1",
+      "tausug": "Tulug",
+      "english": "sleep",
+      "categories": ["verb"],
+      "definition": "To rest in a state of reduced consciousness.",
+      "examples": [
+        {
+          "tausug": "Tulug na aku kay' kapuyan na.",
+          "english": "I'm going to sleep now because I'm tired."
+        }
+      ],
+      "pronunciation": "too-LOOG"
+    },
+    {
+      "id": "kaun_2",
+      "tausug": "Kaun",
+      "english": "eat",
+      "categories": ["verb"],
+      "definition": "To put food into the mouth and chew and swallow it.",
+      "examples": [
+        {
+          "tausug": "Kaun na kita sin pagkaun.",
+          "english": "Let's eat the food now."
+        }
+      ],
+      "pronunciation": "KA-oon",
+      "notes": "Same spelling as the noun 'kaun' (food/meal) but different function."
+    },
+    {
+      "id": "inum_1",
+      "tausug": "Inum",
+      "english": "drink",
+      "categories": ["verb"],
+      "definition": "To take liquid into the mouth and swallow.",
+      "examples": [
+        {
+          "tausug": "Inum tubig bang kauhaw.",
+          "english": "Drink water when thirsty."
+        }
+      ],
+      "pronunciation": "EE-noom"
+    },
+    {
+      "id": "bassa_1",
+      "tausug": "Bassa",
+      "english": "read",
+      "categories": ["verb"],
+      "definition": "To look at and comprehend the meaning of written or printed matter.",
+      "examples": [
+        {
+          "tausug": "Bassa aku sin libro kada adlaw.",
+          "english": "I read a book every day."
+        }
+      ],
+      "pronunciation": "bas-SA"
+    },
+    {
+      "id": "sulat_1",
+      "tausug": "Sulat",
+      "english": "write",
+      "categories": ["verb"],
+      "definition": "To mark letters, words, or other symbols on a surface.",
+      "examples": [
+        {
+          "tausug": "Sulat ku in ngan ku ha katas.",
+          "english": "I write my name on the paper."
+        }
+      ],
+      "pronunciation": "soo-LAT"
+    },
+
+    /* ========== ADJECTIVES ========== */
+    {
+      "id": "dakula_1",
+      "tausug": "Dakula",
+      "english": "big, large",
+      "categories": ["adjective"],
+      "definition": "Of considerable size or extent.",
+      "examples": [
+        {
+          "tausug": "Dakula in isda sin manga mangingisda.",
+          "english": "The fishermen's fish is big."
+        }
+      ],
+      "pronunciation": "da-koo-LA",
+      "antonyms": ["Diutay"]
+    },
+    {
+      "id": "diutay_1",
+      "tausug": "Diutay",
+      "english": "small, little",
+      "categories": ["adjective"],
+      "definition": "Of a size that is less than normal or usual.",
+      "examples": [
+        {
+          "tausug": "Diutay in bata' pero matalino.",
+          "english": "The child is small but smart."
+        }
+      ],
+      "pronunciation": "dee-oo-TIE",
+      "antonyms": ["Dakula"]
+    },
+    {
+      "id": "marayaw_1",
+      "tausug": "Marayaw",
+      "english": "good, fine, well",
+      "categories": ["adjective"],
+      "definition": "To be desired or approved of; in a satisfactory condition.",
+      "examples": [
+        {
+          "tausug": "Marayaw lang aku, salamatt.",
+          "english": "I'm just fine, thank you."
+        }
+      ],
+      "pronunciation": "ma-RIE-ow"
+    },
+    {
+      "id": "mataud_1",
+      "tausug": "Mataud",
+      "english": "many, a lot",
+      "categories": ["adjective"],
+      "definition": "A large number of.",
+      "examples": [
+        {
+          "tausug": "Mataud tawo ha piyista.",
+          "english": "There are many people at the festival."
+        }
+      ],
+      "pronunciation": "ma-TA-ood",
+      "antonyms": ["Diutay"]
+    },
+    {
+      "id": "mahal_1",
+      "tausug": "Mahal",
+      "english": "expensive",
+      "categories": ["adjective"],
+      "definition": "Costing a lot of money.",
+      "examples": [
+        {
+          "tausug": "Mahal in karita bago.",
+          "english": "The new car is expensive."
+        }
+      ],
+      "pronunciation": "ma-HAL",
+      "antonyms": ["Mura"]
+    },
+    {
+      "id": "mura_1",
+      "tausug": "Mura",
+      "english": "cheap",
+      "categories": ["adjective"],
+      "definition": "Low in price; worth more than its cost.",
+      "examples": [
+        {
+          "tausug": "Mura in manga prutas ha talipapa.",
+          "english": "The fruits at the market are cheap."
+        }
+      ],
+      "pronunciation": "moo-RA",
+      "antonyms": ["Mahal"]
+    },
+    {
+      "id": "mapasu_1",
+      "tausug": "Mapasu",
+      "english": "hot",
+      "categories": ["adjective"],
+      "definition": "Having a high degree of heat or a high temperature.",
+      "examples": [
+        {
+          "tausug": "Mapasu in kape, ayaw hilabti.",
+          "english": "The coffee is hot, don't touch it."
+        }
+      ],
+      "pronunciation": "ma-PA-soo",
+      "antonyms": ["Malamig"]
+    },
+    {
+      "id": "malamig_1",
+      "tausug": "Malamig",
+      "english": "cold",
+      "categories": ["adjective"],
+      "definition": "Of or at a low or relatively low temperature.",
+      "examples": [
+        {
+          "tausug": "Malamig in tubig ha sulod sin refrigerator.",
+          "english": "The water inside the refrigerator is cold."
+        }
+      ],
+      "pronunciation": "ma-la-MEEG",
+      "antonyms": ["Mapasu"]
+    },
+    {
+      "id": "malum_1",
+      "tausug": "Malum",
+      "english": "soft",
+      "categories": ["adjective"],
+      "definition": "Easy to mold, cut, compress, or fold; not hard or firm to the touch.",
+      "examples": [
+        {
+          "tausug": "Malum in kama', marayaw katulugan.",
+          "english": "The bed is soft, good for sleeping."
+        }
+      ],
+      "pronunciation": "ma-LOOM",
+      "antonyms": ["Matagus"]
+    },
+    {
+      "id": "matagus_1",
+      "tausug": "Matagus",
+      "english": "hard",
+      "categories": ["adjective"],
+      "definition": "Solid, firm, and resistant to pressure; not easily broken or bent.",
+      "examples": [
+        {
+          "tausug": "Matagus in batu, di' mabali.",
+          "english": "The stone is hard, it won't break."
+        }
+      ],
+      "pronunciation": "ma-TA-goos",
+      "antonyms": ["Malum"]
+    },
+    {
+      "id": "malingkat_1",
+      "tausug": "Malingkat",
+      "english": "beautiful, pretty",
+      "categories": ["adjective"],
+      "definition": "Pleasing the senses or mind aesthetically.",
+      "examples": [
+        {
+          "tausug": "Malingkat in dagat ha sulod.",
+          "english": "The sea at sunset is beautiful."
+        }
+      ],
+      "pronunciation": "ma-ling-KAT"
+    },
+    {
+      "id": "mahapdi_1",
+      "tausug": "Mahapdi",
+      "english": "painful",
+      "categories": ["adjective"],
+      "definition": "Causing physical pain or suffering.",
+      "examples": [
+        {
+          "tausug": "Mahapdi in samad ha bukun ku.",
+          "english": "The wound on my leg is painful."
+        }
+      ],
+      "pronunciation": "ma-HAP-dee"
+    },
+    {
+      "id": "masum_1",
+      "tausug": "Masūm",
+      "english": "sour",
+      "categories": ["adjective"],
+      "definition": "Having an acid taste like lemon or vinegar.",
+      "examples": [
+        {
+          "tausug": "Masūm in mangga hilaw.",
+          "english": "The unripe mango is sour."
+        }
+      ],
+      "pronunciation": "ma-SOOM",
+      "antonyms": ["Matam-is"]
+    },
+    {
+      "id": "matamis_1",
+      "tausug": "Matam-is",
+      "english": "sweet",
+      "categories": ["adjective"],
+      "definition": "Having the pleasant taste characteristic of sugar or honey.",
+      "examples": [
+        {
+          "tausug": "Matam-is in mangga hinog.",
+          "english": "The ripe mango is sweet."
+        }
+      ],
+      "pronunciation": "ma-tam-EES",
+      "antonyms": ["Masūm"]
+    },
+    {
+      "id": "dum_1",
+      "tausug": "Dūm",
+      "english": "dark",
+      "categories": ["adjective"],
+      "definition": "With little or no light.",
+      "examples": [
+        {
+          "tausug": "Dūm na, subay na kita madtu ha bay.",
+          "english": "It's dark now, we should go home."
+        }
+      ],
+      "pronunciation": "DOOM",
+      "antonyms": ["Sanag"]
+    },
+    {
+      "id": "sanag_1",
+      "tausug": "Sanag",
+      "english": "bright, light",
+      "categories": ["adjective"],
+      "definition": "Giving out or reflecting a lot of light; shining.",
+      "examples": [
+        {
+          "tausug": "Sanag in adlaw ha udto.",
+          "english": "The sun is bright at noon."
+        }
+      ],
+      "pronunciation": "SA-nag",
+      "antonyms": ["Dūm"]
+    },
+
+    /* ========== PRONOUNS ========== */
+    {
+      "id": "aku_1",
+      "tausug": "Aku",
+      "english": "I, me",
+      "categories": ["pronoun"],
+      "definition": "First person singular pronoun; refers to the speaker.",
+      "examples": [
+        {
+          "tausug": "Aku in magluto sin pagkaun.",
+          "english": "I am the one who will cook the food."
+        },
+        {
+          "tausug": "Biyayaan nila aku sin regalu.",
+          "english": "They gave me a gift."
+        }
+      ],
+      "pronunciation": "A-koo",
+      "notes": "Subject form is 'aku', object form can be 'kanaku'."
+    },
+    {
+      "id": "kaw_1",
+      "tausug": "Kaw",
+      "english": "you (singular)",
+      "categories": ["pronoun"],
+      "definition": "Second person singular pronoun; refers to the person being addressed.",
+      "examples": [
+        {
+          "tausug": "Kumusta na kaw?",
+          "english": "How are you?"
+        }
+      ],
+      "pronunciation": "KA-ow"
+    },
+    {
+      "id": "kita_2",
+      "tausug": "Kita",
+      "english": "we (inclusive)",
+      "categories": ["pronoun"],
+      "definition": "First person plural inclusive pronoun; includes both speaker and listener.",
+      "examples": [
+        {
+          "tausug": "Kita madtu ha bay ni Inda.",
+          "english": "We (you and I) will go to Inda's house."
+        }
+      ],
+      "pronunciation": "KEE-ta",
+      "notes": "Different from verb 'kita' (to see). Inclusive 'we' includes listener."
+    },
+    {
+      "id": "kami_1",
+      "tausug": "Kami",
+      "english": "we (exclusive)",
+      "categories": ["pronoun"],
+      "definition": "First person plural exclusive pronoun; includes speaker but excludes listener.",
+      "examples": [
+        {
+          "tausug": "Kami madtu ha iskul, ikaw ha bay.",
+          "english": "We (my group) will go to school, you stay at home."
+        }
+      ],
+      "pronunciation": "KA-mee",
+      "notes": "Exclusive 'we' does not include the person being spoken to."
+    },
+    {
+      "id": "siya_1",
+      "tausug": "Siya",
+      "english": "he, she",
+      "categories": ["pronoun"],
+      "definition": "Third person singular pronoun; refers to someone other than speaker or listener.",
+      "examples": [
+        {
+          "tausug": "Siya in nagbasa sin surat.",
+          "english": "He/She was the one who read the letter."
+        }
+      ],
+      "pronunciation": "SEE-ya",
+      "notes": "Gender-neutral in Tausug; context determines if male or female."
+    },
+    {
+      "id": "sila_1",
+      "tausug": "Sila",
+      "english": "they",
+      "categories": ["pronoun"],
+      "definition": "Third person plural pronoun; refers to a group of people not including speaker or listener.",
+      "examples": [
+        {
+          "tausug": "Sila in manga nagdula ha guwa.",
+          "english": "They are the ones playing outside."
+        }
+      ],
+      "pronunciation": "SEE-la"
+    },
+    {
+      "id": "ini_1",
+      "tausug": "Ini",
+      "english": "this",
+      "categories": ["pronoun"],
+      "definition": "Demonstrative pronoun referring to something near the speaker.",
+      "examples": [
+        {
+          "tausug": "Ini in bay ku.",
+          "english": "This is my house."
+        }
+      ],
+      "pronunciation": "EE-nee"
+    },
+    {
+      "id": "iyan_1",
+      "tausug": "Iyan",
+      "english": "that",
+      "categories": ["pronoun"],
+      "definition": "Demonstrative pronoun referring to something away from the speaker.",
+      "examples": [
+        {
+          "tausug": "Iyan in bay nila.",
+          "english": "That is their house."
+        }
+      ],
+      "pronunciation": "ee-YAN"
+    },
+    {
+      "id": "iya_1",
+      "tausug": "Iya",
+      "english": "his, her, its",
+      "categories": ["pronoun"],
+      "definition": "Third person singular possessive pronoun.",
+      "examples": [
+        {
+          "tausug": "Ini in libru iya.",
+          "english": "This is his/her book."
+        }
+      ],
+      "pronunciation": "EE-ya"
+    },
+
+    /* ========== ADVERBS ========== */
+    {
+      "id": "iyo_1",
+      "tausug": "Iyo",
+      "english": "yes",
+      "categories": ["adverb"],
+      "definition": "Used to give an affirmative response.",
+      "examples": [
+        {
+          "tausug": "Iyo, aku in nagbassa.",
+          "english": "Yes, I was the one who read."
+        }
+      ],
+      "pronunciation": "EE-yo",
+      "synonyms": ["Huun"]
+    },
+    {
+      "id": "da_1",
+      "tausug": "Da",
+      "english": "no, not",
+      "categories": ["adverb"],
+      "definition": "Used to express negation, denial, or refusal.",
+      "examples": [
+        {
+          "tausug": "Da' aku mabaya'.",
+          "english": "I don't want to."
+        }
+      ],
+      "pronunciation": "da",
+      "notes": "Often used as 'da'' (with glottal stop) for negation."
+    },
+    {
+      "id": "marayaw_2",
+      "tausug": "Marayaw",
+      "english": "well",
+      "categories": ["adverb"],
+      "definition": "In a good or satisfactory manner.",
+      "examples": [
+        {
+          "tausug": "Marayaw siya magtindug.",
+          "english": "He stands well."
+        }
+      ],
+      "pronunciation": "ma-RIE-ow"
+    },
+    {
+      "id": "mabiskay_1",
+      "tausug": "Mabiskay",
+      "english": "quickly, fast",
+      "categories": ["adverb"],
+      "definition": "At high speed; rapidly.",
+      "examples": [
+        {
+          "tausug": "Mabiskay siya nagdagan.",
+          "english": "He ran quickly."
+        }
+      ],
+      "pronunciation": "ma-bis-KIE"
+    },
+    {
+      "id": "kuman_1",
+      "tausug": "Kuman",
+      "english": "now",
+      "categories": ["adverb"],
+      "definition": "At the present time or moment.",
+      "examples": [
+        {
+          "tausug": "Kuman kami mangi'.",
+          "english": "We are going now."
+        }
+      ],
+      "pronunciation": "koo-MAN"
+    },
+    {
+      "id": "iyahan_1",
+      "tausug": "Iyahan",
+      "english": "there",
+      "categories": ["adverb"],
+      "definition": "In, at, or to that place or position.",
+      "examples": [
+        {
+          "tausug": "Iyahan siya nagtindug.",
+          "english": "He is standing there."
+        }
+      ],
+      "pronunciation": "ee-ya-HAN"
+    },
+    {
+      "id": "diyan_1",
+      "tausug": "Diyan",
+      "english": "here",
+      "categories": ["adverb"],
+      "definition": "In, at, or to this place or position.",
+      "examples": [
+        {
+          "tausug": "Diyan kaw maghulat.",
+          "english": "Wait here."
+        }
+      ],
+      "pronunciation": "dee-YAN"
+    },
+    {
+      "id": "kasusu_1",
+      "tausug": "Kasusu'",
+      "english": "often",
+      "categories": ["adverb"],
+      "definition": "Frequently; many times.",
+      "examples": [
+        {
+          "tausug": "Kasusu' aku makaan ha restaurant.",
+          "english": "I often eat at the restaurant."
+        }
+      ],
+      "pronunciation": "ka-soo-SOO"
+    },
+
+    /* ========== INTERJECTIONS ========== */
+    {
+      "id": "salamat_1",
+      "tausug": "Salamat",
+      "english": "thank you",
+      "categories": ["interjection"],
+      "definition": "An expression of gratitude or appreciation.",
+      "examples": [
+        {
+          "tausug": "Salamat sa pagtabang.",
+          "english": "Thank you for the help."
+        }
+      ],
+      "pronunciation": "sa-la-MAT",
+      "response": "Walay sapayan"
+    },
+    {
+      "id": "huun_1",
+      "tausug": "Huun",
+      "english": "yes",
+      "categories": ["interjection"],
+      "definition": "An affirmative response.",
+      "examples": [
+        {
+          "tausug": "Huun, aku in naghulat.",
+          "english": "Yes, I was the one waiting."
+        }
+      ],
+      "pronunciation": "hoo-OON",
+      "synonyms": ["Iyo"]
+    },
+    {
+      "id": "ampun_1",
+      "tausug": "Ampun",
+      "english": "sorry, excuse me",
+      "categories": ["interjection"],
+      "definition": "Used to express apology or to get someone's attention politely.",
+      "examples": [
+        {
+          "tausug": "Ampun, diin in banyu?",
+          "english": "Excuse me, where is the bathroom?"
+        }
+      ],
+      "pronunciation": "am-POON"
+    },
+    {
+      "id": "ay_1",
+      "tausug": "Ay",
+      "english": "oh",
+      "categories": ["interjection"],
+      "definition": "Used to express surprise, pain, or disappointment.",
+      "examples": [
+        {
+          "tausug": "Ay! Nalimutan ku in yan ku.",
+          "english": "Oh! I forgot my key."
+        }
+      ],
+      "pronunciation": "AI"
+    },
+    {
+      "id": "astaghfirullah_1",
+      "tausug": "Astaghfirullah",
+      "english": "God forgive me",
+      "categories": ["interjection"],
+      "definition": "Islamic expression meaning 'I seek forgiveness from Allah'.",
+      "examples": [
+        {
+          "tausug": "Astaghfirullah! Subay kaw magsambahayang.",
+          "english": "God forgive me! You should pray."
+        }
+      ],
+      "pronunciation": "as-tag-feer-oo-LAH",
+      "notes": "Arabic origin, commonly used by Muslim Tausugs."
+    },
+    {
+      "id": "mashallah_1",
+      "tausug": "Masha'Allah",
+      "english": "God has willed it",
+      "categories": ["interjection"],
+      "definition": "Islamic expression used to express appreciation, joy, or thankfulness.",
+      "examples": [
+        {
+          "tausug": "Masha'Allah! Malingkat in bata'.",
+          "english": "God has willed it! The child is beautiful."
+        }
+      ],
+      "pronunciation": "mash-al-LAH",
+      "notes": "Arabic origin, used to praise something beautiful or commendable."
+    },
+
+    /* ========== PREPOSITIONS ========== */
+    {
+      "id": "ha_1",
+      "tausug": "Ha",
+      "english": "in, at, on",
+      "categories": ["preposition"],
+      "definition": "Indicates location, position, or time.",
+      "examples": [
+        {
+          "tausug": "In sapi nagkakà ha kātan.",
+          "english": "The cow is grazing in the field."
+        },
+        {
+          "tausug": "Ha lamesa in libro.",
+          "english": "The book is on the table."
+        }
+      ],
+      "pronunciation": "ha"
+    },
+    {
+      "id": "sin_1",
+      "tausug": "Sin",
+      "english": "of, from",
+      "categories": ["preposition"],
+      "definition": "Indicates possession, origin, or material.",
+      "examples": [
+        {
+          "tausug": "In libro sin maestra.",
+          "english": "The teacher's book (book of the teacher)."
+        }
+      ],
+      "pronunciation": "sin"
+    },
+    {
+      "id": "pa_1",
+      "tausug": "Pa",
+      "english": "to, towards",
+      "categories": ["preposition"],
+      "definition": "Indicates direction or movement toward a place.",
+      "examples": [
+        {
+          "tausug": "Miyadtu siya pa lungsod.",
+          "english": "He went to town."
+        }
+      ],
+      "pronunciation": "pa"
+    },
+
+    /* ========== CONJUNCTIONS ========== */
+    {
+      "id": "iban_1",
+      "tausug": "Iban",
+      "english": "and",
+      "categories": ["conjunction"],
+      "definition": "Used to connect words, phrases, or clauses.",
+      "examples": [
+        {
+          "tausug": "In babai iban in lalaki nagkā hinang.",
+          "english": "The woman and the man are working."
+        }
+      ],
+      "pronunciation": "EE-ban"
+    },
+    {
+      "id": "sabab_1",
+      "tausug": "Sabab",
+      "english": "because",
+      "categories": ["conjunction"],
+      "definition": "For the reason that; since.",
+      "examples": [
+        {
+          "tausug": "Di' aku makatū sabab masakit in bukun ku.",
+          "english": "I cannot come because my body aches."
+        }
+      ],
+      "pronunciation": "sa-BAB"
+    },
+    {
+      "id": "kakun_1",
+      "tausug": "Kākun",
+      "english": "if",
+      "categories": ["conjunction"],
+      "definition": "Introducing a conditional clause.",
+      "examples": [
+        {
+          "tausug": "Kākun kaw magkaun, wayruun madtu pa iskul.",
+          "english": "If you eat, then go to school."
+        }
+      ],
+      "pronunciation": "KA-kon"
+    },
+
+    /* ========== GRAMMAR TERMS (For Parts of Speech Pages) ========== */
+    {
+      "id": "ngan_1",
+      "tausug": "Ngan",
+      "english": "noun",
+      "categories": ["grammar_term"],
+      "definition": "A word that names a person, place, thing, or idea.",
+      "examples": [
+        {
+          "tausug": "In 'bāy' ngan.",
+          "english": "'House' is a noun."
+        }
+      ],
+      "pronunciation": "NGAN"
+    },
+    {
+      "id": "papata_1",
+      "tausug": "Papata",
+      "english": "adjective",
+      "categories": ["grammar_term"],
+      "definition": "A word that describes or modifies a noun.",
+      "examples": [
+        {
+          "tausug": "In 'dakula' papata.",
+          "english": "'Big' is an adjective."
+        }
+      ],
+      "pronunciation": "pa-PA-ta"
+    },
+    {
+      "id": "piil_1",
+      "tausug": "Pi'il",
+      "english": "verb",
+      "categories": ["grammar_term"],
+      "definition": "A word that expresses an action, occurrence, or state of being.",
+      "examples": [
+        {
+          "tausug": "In 'kita' pi'il.",
+          "english": "'To see' is a verb."
+        }
+      ],
+      "pronunciation": "pee-EEL"
+    },
+    {
+      "id": "ganti_1",
+      "tausug": "Ganti'ngan",
+      "english": "pronoun",
+      "categories": ["grammar_term"],
+      "definition": "A word that takes the place of a noun.",
+      "examples": [
+        {
+          "tausug": "In 'aku' ganti'ngan.",
+          "english": "'I' is a pronoun."
+        }
+      ],
+      "pronunciation": "gan-tee-NGAN"
+    },
+    {
+      "id": "kahantang_1",
+      "tausug": "Kahantang",
+      "english": "adverb",
+      "categories": ["grammar_term"],
+      "definition": "A word that modifies a verb, adjective, or another adverb.",
+      "examples": [
+        {
+          "tausug": "In 'marayaw' kahantang.",
+          "english": "'Well' is an adverb."
+        }
+      ],
+      "pronunciation": "ka-han-TANG"
+    },
+    {
+      "id": "parbutangan_1",
+      "tausug": "Parbutangan",
+      "english": "preposition",
+      "categories": ["grammar_term"],
+      "definition": "A word that shows the relationship between a noun (or pronoun) and other words.",
+      "examples": [
+        {
+          "tausug": "In 'ha' parbutangan.",
+          "english": "'In/at/on' is a preposition."
+        }
+      ],
+      "pronunciation": "par-boo-ta-NGAN"
+    },
+    {
+      "id": "panglangkum_1",
+      "tausug": "Panglangkum",
+      "english": "conjunction",
+      "categories": ["grammar_term"],
+      "definition": "A word that connects words, phrases, or clauses.",
+      "examples": [
+        {
+          "tausug": "In 'iban' panglangkum.",
+          "english": "'And' is a conjunction."
+        }
+      ],
+      "pronunciation": "pang-lang-KOOM"
+    },
+    {
+      "id": "hurop_1",
+      "tausug": "Hurop",
+      "english": "interjection",
+      "categories": ["grammar_term"],
+      "definition": "A word or phrase that expresses strong emotion or reaction.",
+      "examples": [
+        {
+          "tausug": "In 'salamat' hurop.",
+          "english": "'Thank you' is an interjection."
+        }
+      ],
+      "pronunciation": "hoo-ROP"
+    }
+  ]
+}
