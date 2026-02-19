@@ -1,0 +1,60 @@
+{
+  "vocabulary": [
+    {
+      "id": "hurop_note_1",
+      "tausug": "Hurop (Articles in Tausug)",
+      "english": "Articles",
+      "definition": "Tausug does not have direct equivalents to English articles (a, an, the). Definiteness is expressed through context and demonstrative pronouns.",
+      "examples": [
+        {
+          "tausug": "Bay",
+          "english": "a house / the house (context determines which)"
+        },
+        {
+          "tausug": "Ini bay",
+          "english": "this house (specific)"
+        },
+        {
+          "tausug": "Iyan bay",
+          "english": "that house (specific)"
+        }
+      ],
+      "pronunciation": "hoo-ROP",
+      "notes": "Unlike English, Tausug relies on word order, context, and demonstrative words like 'ini' (this) and 'iyan' (that) to indicate specificity."
+    },
+    {
+      "id": "demonstrative_1",
+      "tausug": "Ini / Iyan",
+      "english": "this / that",
+      "definition": "Demonstratives that function similarly to definite articles in specifying which noun is being referred to.",
+      "examples": [
+        {
+          "tausug": "Ini libro",
+          "english": "This book (the book right here)"
+        },
+        {
+          "tausug": "Iyan libro",
+          "english": "That book (the book over there)"
+        }
+      ],
+      "pronunciation": "EE-nee / ee-YAN"
+    },
+    {
+      "id": "context_article_1",
+      "tausug": "(Context)",
+      "english": "Implied definiteness",
+      "definition": "In Tausug, whether a noun is definite or indefinite is often understood from the conversation context without using separate words.",
+      "examples": [
+        {
+          "tausug": "May buku' aku.",
+          "english": "I have a book. (indefinite - any book)"
+        },
+        {
+          "tausug": "In buku' ku ha lamesa.",
+          "english": "The book is on the table. (definite - specific book)"
+        }
+      ],
+      "notes": "The word 'in' before a noun often marks it as the topic or subject, similar to a definite marker."
+    }
+  ]
+}
