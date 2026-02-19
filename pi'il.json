@@ -1,1 +1,114 @@
-
+{
+  "vocabulary": [
+    {
+      "id": "kita_1",
+      "tausug": "Kita",
+      "english": "see, look",
+      "definition": "To perceive with the eyes; to observe.",
+      "examples": [
+        {
+          "tausug": "Kita ku kaw ha iskul kagabii.",
+          "english": "I saw you at school yesterday."
+        },
+        {
+          "tausug": "Kita kaw sin dagat!",
+          "english": "Look at the sea!"
+        }
+      ],
+      "pronunciation": "KEE-ta",
+      "notes": "Different meaning from the pronoun 'kita' (we inclusive)."
+    },
+    {
+      "id": "dagan_1",
+      "tausug": "Dagan",
+      "english": "run",
+      "definition": "To move at a speed faster than a walk.",
+      "examples": [
+        {
+          "tausug": "Dagan siya bang mangadjat in ulan.",
+          "english": "He runs when the rain starts."
+        }
+      ],
+      "pronunciation": "DA-gan"
+    },
+    {
+      "id": "hulag_1",
+      "tausug": "Hulag",
+      "english": "move",
+      "definition": "To change position or go from one place to another.",
+      "examples": [
+        {
+          "tausug": "Ayaw hulag!",
+          "english": "Don't move!"
+        }
+      ],
+      "pronunciation": "hoo-LAG"
+    },
+    {
+      "id": "tulug_1",
+      "tausug": "Tulug",
+      "english": "sleep",
+      "definition": "To rest in a state of reduced consciousness.",
+      "examples": [
+        {
+          "tausug": "Tulug na aku kay' kapuyan na.",
+          "english": "I'm going to sleep now because I'm tired."
+        }
+      ],
+      "pronunciation": "too-LOOG"
+    },
+    {
+      "id": "kaun_2",
+      "tausug": "Kaun",
+      "english": "eat",
+      "definition": "To put food into the mouth and chew and swallow it.",
+      "examples": [
+        {
+          "tausug": "Kaun na kita sin pagkaun.",
+          "english": "Let's eat the food now."
+        }
+      ],
+      "pronunciation": "KA-oon",
+      "notes": "Same spelling as the noun 'kaun' (food/meal) but different function."
+    },
+    {
+      "id": "inum_1",
+      "tausug": "Inum",
+      "english": "drink",
+      "definition": "To take liquid into the mouth and swallow.",
+      "examples": [
+        {
+          "tausug": "Inum tubig bang kauhaw.",
+          "english": "Drink water when thirsty."
+        }
+      ],
+      "pronunciation": "EE-noom"
+    },
+    {
+      "id": "bassa_1",
+      "tausug": "Bassa",
+      "english": "read",
+      "definition": "To look at and comprehend the meaning of written or printed matter.",
+      "examples": [
+        {
+          "tausug": "Bassa aku sin libro kada adlaw.",
+          "english": "I read a book every day."
+        }
+      ],
+      "pronunciation": "bas-SA"
+    },
+    {
+      "id": "sulat_1",
+      "tausug": "Sulat",
+      "english": "write",
+      "definition": "To mark letters, words, or other symbols on a surface.",
+      "examples": [
+        {
+          "tausug": "Sulat ku in ngan ku ha katas.",
+          "english": "I write my name on the paper."
+        }
+      ],
+      "pronunciation": "soo-LAT"
+    }
+  ]
+}
