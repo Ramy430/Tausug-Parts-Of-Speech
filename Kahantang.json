@@ -1,1 +1,110 @@
-
+{
+  "vocabulary": [
+    {
+      "id": "iyo_1",
+      "tausug": "Iyo",
+      "english": "yes",
+      "definition": "Used to give an affirmative response.",
+      "examples": [
+        {
+          "tausug": "Iyo, aku in nagbassa.",
+          "english": "Yes, I was the one who read."
+        }
+      ],
+      "pronunciation": "EE-yo",
+      "synonyms": ["Huun"]
+    },
+    {
+      "id": "da_1",
+      "tausug": "Da",
+      "english": "no, not",
+      "definition": "Used to express negation, denial, or refusal.",
+      "examples": [
+        {
+          "tausug": "Da' aku mabaya'.",
+          "english": "I don't want to."
+        }
+      ],
+      "pronunciation": "da",
+      "notes": "Often used as 'da'' (with glottal stop) for negation."
+    },
+    {
+      "id": "marayaw_2",
+      "tausug": "Marayaw",
+      "english": "well",
+      "definition": "In a good or satisfactory manner.",
+      "examples": [
+        {
+          "tausug": "Marayaw siya magtindug.",
+          "english": "He stands well."
+        }
+      ],
+      "pronunciation": "ma-RIE-ow"
+    },
+    {
+      "id": "mabiskay_1",
+      "tausug": "Mabiskay",
+      "english": "quickly, fast",
+      "definition": "At high speed; rapidly.",
+      "examples": [
+        {
+          "tausug": "Mabiskay siya nagdagan.",
+          "english": "He ran quickly."
+        }
+      ],
+      "pronunciation": "ma-bis-KIE"
+    },
+    {
+      "id": "kuman_1",
+      "tausug": "Kuman",
+      "english": "now",
+      "definition": "At the present time or moment.",
+      "examples": [
+        {
+          "tausug": "Kuman kami mangi'.",
+          "english": "We are going now."
+        }
+      ],
+      "pronunciation": "koo-MAN"
+    },
+    {
+      "id": "iyahan_1",
+      "tausug": "Iyahan",
+      "english": "there",
+      "definition": "In, at, or to that place or position.",
+      "examples": [
+        {
+          "tausug": "Iyahan siya nagtindug.",
+          "english": "He is standing there."
+        }
+      ],
+      "pronunciation": "ee-ya-HAN"
+    },
+    {
+      "id": "diyan_1",
+      "tausug": "Diyan",
+      "english": "here",
+      "definition": "In, at, or to this place or position.",
+      "examples": [
+        {
+          "tausug": "Diyan kaw maghulat.",
+          "english": "Wait here."
+        }
+      ],
+      "pronunciation": "dee-YAN"
+    },
+    {
+      "id": "kasusu_1",
+      "tausug": "Kasusu'",
+      "english": "often",
+      "definition": "Frequently; many times.",
+      "examples": [
+        {
+          "tausug": "Kasusu' aku makaan ha restaurant.",
+          "english": "I often eat at the restaurant."
+        }
+      ],
+      "pronunciation": "ka-soo-SOO"
+    }
+  ]
+}
