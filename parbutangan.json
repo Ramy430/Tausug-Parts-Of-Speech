@@ -1,1 +1,47 @@
-
+{
+  "vocabulary": [
+    {
+      "id": "ha_1",
+      "tausug": "Ha",
+      "english": "in, at, on",
+      "definition": "Indicates location, position, or time.",
+      "examples": [
+        {
+          "tausug": "In sapi nagkakà ha kātan.",
+          "english": "The cow is grazing in the field."
+        },
+        {
+          "tausug": "Ha lamesa in libro.",
+          "english": "The book is on the table."
+        }
+      ],
+      "pronunciation": "ha"
+    },
+    {
+      "id": "sin_1",
+      "tausug": "Sin",
+      "english": "of, from",
+      "definition": "Indicates possession, origin, or material.",
+      "examples": [
+        {
+          "tausug": "In libro sin maestra.",
+          "english": "The teacher's book (book of the teacher)."
+        }
+      ],
+      "pronunciation": "sin"
+    },
+    {
+      "id": "pa_1",
+      "tausug": "Pa",
+      "english": "to, towards",
+      "definition": "Indicates direction or movement toward a place.",
+      "examples": [
+        {
+          "tausug": "Miyadtu siya pa lungsod.",
+          "english": "He went to town."
+        }
+      ],
+      "pronunciation": "pa"
+    }
+  ]
+}
