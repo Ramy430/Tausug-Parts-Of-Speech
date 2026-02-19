@@ -1,1 +1,86 @@
-
+{
+  "vocabulary": [
+    {
+      "id": "salamat_1",
+      "tausug": "Salamat",
+      "english": "thank you",
+      "definition": "An expression of gratitude or appreciation.",
+      "examples": [
+        {
+          "tausug": "Salamat sa pagtabang.",
+          "english": "Thank you for the help."
+        }
+      ],
+      "pronunciation": "sa-la-MAT",
+      "response": "Walay sapayan"
+    },
+    {
+      "id": "huun_1",
+      "tausug": "Huun",
+      "english": "yes",
+      "definition": "An affirmative response.",
+      "examples": [
+        {
+          "tausug": "Huun, aku in naghulat.",
+          "english": "Yes, I was the one waiting."
+        }
+      ],
+      "pronunciation": "hoo-OON",
+      "synonyms": ["Iyo"]
+    },
+    {
+      "id": "ampun_1",
+      "tausug": "Ampun",
+      "english": "sorry, excuse me",
+      "definition": "Used to express apology or to get someone's attention politely.",
+      "examples": [
+        {
+          "tausug": "Ampun, diin in banyu?",
+          "english": "Excuse me, where is the bathroom?"
+        }
+      ],
+      "pronunciation": "am-POON"
+    },
+    {
+      "id": "ay_1",
+      "tausug": "Ay",
+      "english": "oh",
+      "definition": "Used to express surprise, pain, or disappointment.",
+      "examples": [
+        {
+          "tausug": "Ay! Nalimutan ku in yan ku.",
+          "english": "Oh! I forgot my key."
+        }
+      ],
+      "pronunciation": "AI"
+    },
+    {
+      "id": "astaghfirullah_1",
+      "tausug": "Astaghfirullah",
+      "english": "God forgive me",
+      "definition": "Islamic expression meaning 'I seek forgiveness from Allah'.",
+      "examples": [
+        {
+          "tausug": "Astaghfirullah! Subay kaw magsambahayang.",
+          "english": "God forgive me! You should pray."
+        }
+      ],
+      "pronunciation": "as-tag-feer-oo-LAH",
+      "notes": "Arabic origin, commonly used by Muslim Tausugs."
+    },
+    {
+      "id": "mashallah_1",
+      "tausug": "Masha'Allah",
+      "english": "God has willed it",
+      "definition": "Islamic expression used to express appreciation, joy, or thankfulness.",
+      "examples": [
+        {
+          "tausug": "Masha'Allah! Malingkat in bata'.",
+          "english": "God has willed it! The child is beautiful."
+        }
+      ],
+      "pronunciation": "mash-al-LAH",
+      "notes": "Arabic origin, used to praise something beautiful or commendable."
+    }
+  ]
+}
