@@ -1,1 +1,43 @@
-
+{
+  "vocabulary": [
+    {
+      "id": "iban_1",
+      "tausug": "Iban",
+      "english": "and",
+      "definition": "Used to connect words, phrases, or clauses.",
+      "examples": [
+        {
+          "tausug": "In babai iban in lalaki nagkā hinang.",
+          "english": "The woman and the man are working."
+        }
+      ],
+      "pronunciation": "EE-ban"
+    },
+    {
+      "id": "sabab_1",
+      "tausug": "Sabab",
+      "english": "because",
+      "definition": "For the reason that; since.",
+      "examples": [
+        {
+          "tausug": "Di' aku makatū sabab masakit in bukun ku.",
+          "english": "I cannot come because my body aches."
+        }
+      ],
+      "pronunciation": "sa-BAB"
+    },
+    {
+      "id": "kakun_1",
+      "tausug": "Kākun",
+      "english": "if",
+      "definition": "Introducing a conditional clause.",
+      "examples": [
+        {
+          "tausug": "Kākun kaw magkaun, wayruun madtu pa iskul.",
+          "english": "If you eat, then go to school."
+        }
+      ],
+      "pronunciation": "KA-kon"
+    }
+  ]
+}
